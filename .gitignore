@@ -5,3 +5,7 @@
 .idea/vcs.xml
 .idea/watcherTasks.xml
 .idea/workspace.xml
+
+!/.git/info/exclude
+node_modules/
+01/node_modules/
